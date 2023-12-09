@@ -31,3 +31,7 @@ Examples
 - typed: `123` with pattern `00-0` the result will be: `12-3`
 - typed: `Abc1` with pattern `AAA1` the result will be: `Abc1`
 - typed: `1ab2` with pattern `XX` the result will be: `1a`
+
+## ToDo
+
+- Implements reverse way to fill (will possibility money and other fields that are basically "illimited" on the left)
